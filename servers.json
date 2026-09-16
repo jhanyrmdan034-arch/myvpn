@@ -1,0 +1,15 @@
+[
+  {
+    "server_name": "United States - Server 1",
+    "country": "United States",
+    "country_code": "US",
+    "config": "[Interface]\nPrivateKey=aAAAAAaaaaAAAAAaaaaAAAAAaaaaAAAAAaaaaAAAAA=\nAddress=10.7.0.2/24\nDNS=1.1.1.1\n\n[Peer]\nPublicKey=bBBBBbbbbBBBBbbbbBBBBbbbbBBBBbbbbBBBBbbbb=\nEndpoint=1.2.3.4:51820\nAllowedIPs=0.0.0.0/0"
+  },
+  {
+    "server_name": "Germany - Server 1",
+    "country": "Germany",
+    "country_code": "DE",
+    "config": "[Interface]\nPrivateKey=cCCCCcccccCCCCcccccCCCCcccccCCCCcccccCCCC=\nAddress=10.7.0.3/24\nDNS=8.8.8.8\n\n[Peer]\nPublicKey=dDDDDddddDDDDddddDDDDddddDDDDddddDDDDdddd=\nEndpoint=5.6.7.8:51820\nAllowedIPs=0.0.0.0/0"
+  }
+]
+
