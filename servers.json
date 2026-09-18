@@ -1,8 +1,9 @@
 [
   {
-    "server_name": "Germany - Server 1",
-    "country": "Germany",
-    "country_code": "DE",
-    "config": "[Interface]\nPrivateKey=8MbeNlsBl9gPDiKCg5nM/ZXZRPrcIxJMfSgiEgCaH0s=\nAddress=10.7.0.2/24\nDNS=1.1.1.1\n\n[Peer]\nPublicKey=q/kaFo290AkIQnxxy49UHeUnd/D9b7g56jkesh1prxY=\nEndpoint=195.211.124.146:51820\nAllowedIPs=0.0.0.0/0\nPersistentKeepalive=25"
+    "server_name": "UAE - All Net",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "flag": "🇦🇪",
+    "config": "vless://ae05ccc8-0b6d-445b-8e90-18b2e21f3cb1@ae-1-tun.healingfluence.org:5000?encryption=none&security=reality&type=tcp&headerType=none&sni=://google.com&fp=edge&pbk=FhMWFvLreYsLAVipnrvcbHBoYpNC0E9-Jt-ThM6f0Hk&sid=ddfc44847a83078c&spx=%2F#%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%A6%F0%9F%87%AA%20-%20AE%20%7C%20All%20net"
   }
 ]
