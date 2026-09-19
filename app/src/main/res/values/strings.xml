@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Switch VPN</string>
+    <string name="vpn_channel_id">vpn_status_channel</string>
+    <string name="vpn_channel_name">VPN Connection Status</string>
+    <string name="vpn_channel_desc">Shows ongoing VPN connection and transfer statistics</string>
+</resources>
