@@ -19,10 +19,10 @@ jobs:
           distribution: 'zulu'
           java-version: '17'
 
-      # این بخش هوشمند، فایل‌های گریدل گم‌شده را خودکار دانلود و بازسازی می‌کند
-      - name: Restore Missing Gradle Wrapper
+      # تنظیم دقیق نسخه گریدل روی ۸.۱۰.۲ برای هماهنگی با اندروید ۸.۸
+      - name: Restore Correct Gradle Wrapper
         run: |
-          gradle wrapper --gradle-version 8.7
+          gradle wrapper --gradle-version 8.10.2
 
       - name: Setup Gradle Environment
         uses: gradle/actions/setup-gradle@v3
