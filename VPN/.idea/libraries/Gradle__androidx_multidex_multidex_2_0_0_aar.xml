@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.multidex:multidex:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/e7c15fff663085c418e051f2fa76a8af/transformed/multidex-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/e7c15fff663085c418e051f2fa76a8af/transformed/multidex-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/e7c15fff663085c418e051f2fa76a8af/transformed/multidex-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

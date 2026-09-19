@@ -1,0 +1,58 @@
+#app build only remove some , but leave most 
+app/release/
+**/build/reports/
+**/build/outputs/
+**/build/intermediates/
+**/build/generated/
+**/build/tmp
+.gradle/4.10.1/
+.idea/caches/
+.idea/libraries/*.xml
+.idea/codeStyles/
+.idea/misc.xml
+# log files
+**.log
+
+#build application file
+*.apk
+*.ap_
+
+#files for the dex M
+*.dex
+
+#java class file
+*.class
+
+#ignore gradle files
+.gradle/
+
+#local configuration file
+local.properties
+
+#proguard folder generated
+proguard/
+
+# metadata
+.metadata/
+
+# mac os x clutter
+*.DS_STORE
+
+#window clutter
+Thumbs.db
+
+# android studio / Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
+*.iws
+*.iml
+*.ipr
+*.swp
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/dataSources.ids
+.idea/caches/
+
+# use the following command to make .gitignore works 
+#git rm -rf --cached .
+
+#git add .

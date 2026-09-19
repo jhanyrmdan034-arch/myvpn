@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads:19.2.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/213b1ee65b6797d9c0245ae1c3f628d9/transformed/jetified-play-services-ads-19.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/213b1ee65b6797d9c0245ae1c3f628d9/transformed/jetified-play-services-ads-19.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/213b1ee65b6797d9c0245ae1c3f628d9/transformed/jetified-play-services-ads-19.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../OST VPN/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads/19.2.0/3595118ed0ead1cee5178fbd6258f9199eb969a5/play-services-ads-19.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

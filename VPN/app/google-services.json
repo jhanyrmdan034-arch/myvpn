@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783961536568",
+    "firebase_url": "https://matrixvpn-8de07.firebaseio.com",
+    "project_id": "matrixvpn-8de07",
+    "storage_bucket": "matrixvpn-8de07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783961536568:android:469159253bf65f6aa84ecd",
+        "android_client_info": {
+          "package_name": "com.qkvpn.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783961536568-13s619g6r7s3d8k5h3p7ku4ntfsnvcb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYM53Ex-Mn5fzmBwav2BLNFAigWw6oJEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783961536568-13s619g6r7s3d8k5h3p7ku4ntfsnvcb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:audience-network-sdk:5.10.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/3690cb7e67ba3a30f77e8aad6262d779/transformed/jetified-audience-network-sdk-5.10.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/3690cb7e67ba3a30f77e8aad6262d779/transformed/jetified-audience-network-sdk-5.10.0/res" />
+      <root url="file://$PROJECT_DIR$/../../OST VPN/caches/transforms-3/3690cb7e67ba3a30f77e8aad6262d779/transformed/jetified-audience-network-sdk-5.10.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: fr.bmartel:jspeedtest:1.31.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../OST VPN/caches/modules-2/files-2.1/fr.bmartel/jspeedtest/1.31.3/eb942d74cd070f0f6175e1b7c1dec7f259980c93/jspeedtest-1.31.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../OST VPN/caches/modules-2/files-2.1/fr.bmartel/jspeedtest/1.31.3/9cfe819a6572a9d77d1036db6b2016bcb7a9c5af/jspeedtest-1.31.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../OST VPN/caches/modules-2/files-2.1/fr.bmartel/jspeedtest/1.31.3/2883dc09f8afb0347b022a056c9128409041f2ae/jspeedtest-1.31.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
